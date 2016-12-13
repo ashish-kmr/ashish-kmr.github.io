@@ -1,14 +1,30 @@
 # jemdoc: menu{MENU}{example.html}
 = Ashish Kumar
-[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
 
 ~~~
-{}{img_left}{pic.jpg}{alt text}{400px}{500px}{IMGLINKTARGET}
-Ashish Kumar \n
+{}{img_left}{pic.jpg}{alt text}{200px}{250px}{IMGLINKTARGET}
+*Ashish Kumar* \n
 Research Fellow \n
-Machine Learning and Optimization \n
-Microsoft Research \n
+[https://www.microsoft.com/en-us/research/group/machine-learning-and-optimization/ Machine Learning and Optimization] \n
+[https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research India] \n \n
+I am currently working with [http://www.manikvarma.org/ Dr. Manik Varma] and [https://www.microsoft.com/en-us/research/people/prajain/  Dr. Prateek Jain] at Microsoft Research India. I completed my undergraduate study at Indian Institute of Technology Jodhpur, with a major in Computer Science and Engineering, where my Bachelor's Thesis was advised by [http://home.iitj.ac.in/~goravb/ Dr. Gaurav Bhatnagar].
+\n\n
+Here is my [AshishKumar_CV_Dec16 Resume].
+
 ~~~
-Research Fellow
-Machine Learning and Optimization
-Microsoft Research
+
+== Research Interest
+I am passionate about tackling large scale Machine Learning problems and applying them to real world scenarios. This lies at the intersection of Machine Learning Algorithms, Large Scale Optimization and Systems. I am open to exploring the following fields during my Ph.D.
+- Reinforcement Learning
+- Deep Learning
+- Algorithms for applications with severe resource constraints
+
+== Advisors
+I have been fortunate enough to work with the following people (reverse chronological order):
+- [http://www.manikvarma.org/ Manik Varma], Mentor at Microsoft Research
+- [https://www.microsoft.com/en-us/research/people/prajain/  Prateek Jain], Mentor at Microsoft Research
+- [https://civic.mit.edu/users/rahulb Rahul Bhargava], MIT Media Labs Design Workshop 2015
+- [http://home.iitj.ac.in/~goravb/ Gaurav Bhatnagar], Bachelor's Thesis Advisor at IIT Jodhpur
+- [http://www.cc.gatech.edu/~bader/ David Bader], Summer Internship Advisor at Georgia Institute of Technology
+- [http://www.cc.gatech.edu/~jriedy/ Jason Riedy], Summer Internship Advisor at Georgia Institute of Technology
+
