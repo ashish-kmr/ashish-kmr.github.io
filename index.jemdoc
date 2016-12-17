@@ -9,20 +9,20 @@ Research Fellow \n
 [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research India] \n \n
 I am currently working with [http://www.manikvarma.org/ Dr. Manik Varma] and [https://www.microsoft.com/en-us/research/people/prajain/  Dr. Prateek Jain] at Microsoft Research India. I completed my undergraduate study at Indian Institute of Technology Jodhpur, with a major in Computer Science and Engineering, where my Bachelor's Thesis was advised by [http://home.iitj.ac.in/~goravb/ Dr. Gaurav Bhatnagar].
 \n\n
-Here is my [AshishKumar_CV_Dec16.pdf Resume].
+Here is my [AshishKumar_Dec16_resume.pdf Resume].
 ~~~
 
 == Research Interest
 I am passionate about tackling large scale Machine Learning problems and applying them to real world scenarios. This lies at the intersection of Machine Learning Algorithms, Large Scale Optimization and Systems. I am open to exploring the following fields during my Ph.D.
 - Reinforcement Learning
 - Deep Learning
-- Algorithms for applications with severe resource constraints
+- Machine Learning for severely constrainted scenarios
 
 == Projects
 - [https://github.com/aka001/VirtualBraille Virtual Braille] 
 - [https://github.com/saltedcrypts/Traffic_analyzer Smart Traffic Analyzer]
 - A Novel Image Inpainting Framework using Regression
-- Parallel Sparse Matrix Sparse Vector Multiplication
+- [GaTech_Symposium_Presentation.pdf Parallel Sparse Matrix Sparse Vector Multiplication]
 
 == Advisors
 I have been fortunate enough to work with the following people (reverse chronological order):
