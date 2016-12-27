@@ -2,7 +2,7 @@
 = Ashish Kumar
 
 ~~~
-{}{img_left}{pic.jpg}{alt text}{200px}{250px}{IMGLINKTARGET}
+{}{img_left}{pic.jpg}{alt text}{200px}{250px}{pic.jpg}
 *Ashish Kumar* \n
 Research Fellow \n
 [https://www.microsoft.com/en-us/research/group/machine-learning-and-optimization/ Machine Learning and Optimization] \n
@@ -31,3 +31,17 @@ I have been fortunate enough to work with the following people (reverse chronolo
 - [https://civic.mit.edu/users/rahulb Rahul Bhargava], MIT Media Labs Design Workshop 2015
 - [http://iitj.ac.in/department/facultyprofile.php?str=goravb@iitj.ac.in&name=Gaurav%20Bhatnagar Gaurav Bhatnagar], Bachelor's Thesis Advisor at IIT Jodhpur
 - [http://www.cc.gatech.edu/~bader/ David Bader] and [http://www.cc.gatech.edu/~jriedy/ Jason Riedy], Summer Internship Advisors at Georgia Institute of Technology
+
+== Personal
+~~~
+{}{img_left}{scuba.jpg}{alt text}{400px}{250px}{scuba.jpg}
+Scuba Diving at Phuket, Thailand in 2016 \n
+Depth: 12 meters
+~~~
+
+~~~
+{}{img_left}{bungy.jpg}{alt text}{400px}{250px}{bungy.jpg} 
+Bungy Jumping at Rishikesh, India in 2016 \n
+Height: 83 meters
+~~~ 
+
