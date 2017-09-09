@@ -3,23 +3,20 @@
 
 ~~~
 {}{img_left}{pic.jpg}{alt text}{200px}{250px}{pic.jpg}
-*Ashish Kumar* \n
-Research Fellow \n
-[https://www.microsoft.com/en-us/research/group/machine-learning-and-optimization/ Machine Learning and Optimization] \n
-[https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research India] \n \n
-I am currently working with [http://www.manikvarma.org/ Dr. Manik Varma] and [https://www.microsoft.com/en-us/research/people/prajain/  Dr. Prateek Jain] at Microsoft Research India. I completed my undergraduate study at Indian Institute of Technology Jodhpur, with a major in Computer Science and Engineering. My Bachelor's Thesis was advised by [http://home.iitj.ac.in/~goravb/ Dr. Gaurav Bhatnagar].
+=== Ph.D. Candidate, [https://eecs.berkeley.edu/ EECS U.C. Berkeley] \n
+I recently joined UC Berkeley as a PhD Student, where I will be working with the Computer Vision Group. Before coming here, I was a Research Fellow at Microsoft Research India, where I worked with [http://www.manikvarma.org/ Dr. Manik Varma] and [https://www.microsoft.com/en-us/research/people/prajain/  Dr. Prateek Jain] on developing Resource Efficient Machine algorithms. I am broadly interested in AI + Systems, with a focus on inference time efficiency. I completed my undergraduate study at Indian Institute of Technology Jodhpur, with a major in Computer Science and Engineering. My Bachelor's Thesis was advised by [http://home.iitj.ac.in/~goravb/ Dr. Gaurav Bhatnagar].
 \n\n
 Here is my [AshishKumar_Dec16_resume.pdf Resume].
 ~~~
 
-== Research Interest
-I am passionate about tackling large scale Machine Learning problems and applying them to real world scenarios. This lies at the intersection of Machine Learning Algorithms, Large Scale Optimization and Systems. I am open to exploring the following fields during my Ph.D.
-- Reinforcement Learning
-- Deep Learning
-- Machine Learning in constrained scenarios
+== Publications
+- *Kumar, Ashish*, Saurabh Goyal, and Manik Varma. "Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things." International Conference on Machine Learning. 2017.\n 
+\[[http://proceedings.mlr.press/v70/kumar17a.html Abstract]\]  \[[http://proceedings.mlr.press/v70/kumar17a/kumar17a.pdf Pdf]\]  \[[https://github.com/Microsoft/EdgeML Code]\] \[[http://aka.ms/EdgeML webpage]\]
+- Gupta, Chirag, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, *Ashish Kumar*, Saurabh Goyal, Raghavendra Udupa, Manik Varma, and Prateek Jain. "ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices." In International Conference on Machine Learning. 2017.\n 
+\[[http://proceedings.mlr.press/v70/gupta17a.html Abstract]\] \[[http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf Pdf]\] \[[https://github.com/Microsoft/EdgeML Code]\] \[[http://aka.ms/EdgeML webpage]\]
 
 == Projects
-- Machine learning On Device for Internet of Things (IoT) Applications
+- [http://aka.ms/EdgeML Machine learning On Device for Internet of Things (IoT) Applications
 - [https://github.com/aka001/VirtualBraille Virtual Braille] 
 - [https://github.com/saltedcrypts/Traffic_analyzer Smart Traffic Analyzer]
 - [B.Tech_Thesis_Presentation.pdf A Novel Image Inpainting Framework using Regression]
