@@ -10,11 +10,11 @@ Here is my [AshishKumar_Dec2017.pdf Resume].
 ~~~
 
 == Publications
-- *Kumar Ashish\* *, Saurabh Gupta\*, David Fouhey, Sergey Levine, Jitendra Malik. "Visual Memory for Robust Path Following" {{<font color = "green">}} Oral {{</font>}} at Neural Information Processing Systems. 2018 \n 
-- Kusupati Aditya, Manish Singh, Kush Bhatia, *Ashish Kumar*, Prateek Jain, Manik Varma. "FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network" Neural Information Processing Systems. 2018 \n
-- *Kumar Ashish*, Saurabh Goyal, and Manik Varma. "Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things." International Conference on Machine Learning. 2017.\n 
+- "Visual Memory for Robust Path Following" *Kumar Ashish\* *, Saurabh Gupta\*, David Fouhey, Sergey Levine, Jitendra Malik. {{<font color = "red">}}Oral Presentation{{</font>}} at Neural Information Processing Systems. 2018 \n 
+- "FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network" Kusupati Aditya, Manish Singh, Kush Bhatia, *Ashish Kumar*, Prateek Jain, Manik Varma. Neural Information Processing Systems. 2018 \n
+- "Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things" *Kumar Ashish*, Saurabh Goyal, and Manik Varma. International Conference on Machine Learning. 2017.\n 
 \[[http://proceedings.mlr.press/v70/kumar17a.html Abstract]\]  \[[http://proceedings.mlr.press/v70/kumar17a/kumar17a.pdf Pdf]\]  \[[https://github.com/Microsoft/EdgeML Code]\] \[[http://aka.ms/EdgeML webpage]\]
-- Gupta, Chirag, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, *Ashish Kumar*, Saurabh Goyal, Raghavendra Udupa, Manik Varma, and Prateek Jain. "ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices." In International Conference on Machine Learning. 2017.\n 
+- "ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices" Gupta, Chirag, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, *Ashish Kumar*, Saurabh Goyal, Raghavendra Udupa, Manik Varma, and Prateek Jain. In International Conference on Machine Learning. 2017.\n 
 \[[http://proceedings.mlr.press/v70/gupta17a.html Abstract]\] \[[http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf Pdf]\] \[[https://github.com/Microsoft/EdgeML Code]\] \[[http://aka.ms/EdgeML webpage]\]
 
 == Talks
