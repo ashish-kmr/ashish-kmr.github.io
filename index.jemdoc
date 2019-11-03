@@ -12,6 +12,10 @@ Here is my [Dec2018CV.pdf Resume].
 ~~~
 
 == Publications
+- "Learning Navigation Subroutines from Egocentric Videos" \n
+*Ashish Kumar*, Saurabh Gupta, Jitendra Malik.\n
+Conference on Robot Learning. 2019 \n
+\[[https://arxiv.org/abs/1905.12612 Pdf]\] \[[https://ashishkumar1993.github.io/subroutines/ Webpage]\]
 - "Visual Memory for Robust Path Following" \n
 *Ashish Kumar\* *, Saurabh Gupta\*, David Fouhey, Sergey Levine, Jitendra Malik.\n{{<font color = "red">}}Oral Presentation{{</font>}} at Neural Information Processing Systems. 2018 \n 
 \[[https://saurabhg.web.illinois.edu/pdfs/kumar2018visual.pdf Pdf]\] \[[https://ashishkumar1993.github.io/rpf/ Webpage]\] \[Code Coming Soon!\]
