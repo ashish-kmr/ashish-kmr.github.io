@@ -15,10 +15,10 @@ Here is my [Dec2018CV.pdf Resume].
 - "Learning Navigation Subroutines from Egocentric Videos" \n
 *Ashish Kumar*, Saurabh Gupta, Jitendra Malik.\n
 Conference on Robot Learning. 2019 \n
-\[[https://arxiv.org/abs/1905.12612 Pdf]\] \[[https://ashishkumar1993.github.io/subroutines/ Webpage]\]
+\[[https://arxiv.org/abs/1905.12612 Pdf]\] \[[https://ashishkumar1993.github.io/subroutines/ Webpage]\] \[[git@github.com:ashishkumar1993/ashishkumar1993.github.io.git Code]\]
 - "Visual Memory for Robust Path Following" \n
 *Ashish Kumar\* *, Saurabh Gupta\*, David Fouhey, Sergey Levine, Jitendra Malik.\n{{<font color = "red">}}Oral Presentation{{</font>}} at Neural Information Processing Systems. 2018 \n 
-\[[https://saurabhg.web.illinois.edu/pdfs/kumar2018visual.pdf Pdf]\] \[[https://ashishkumar1993.github.io/rpf/ Webpage]\] \[Code Coming Soon!\]
+\[[https://saurabhg.web.illinois.edu/pdfs/kumar2018visual.pdf Pdf]\] \[[https://ashishkumar1993.github.io/rpf/ Webpage]\] 
 - "FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network" \n
 Aditya Kusupati, Manish Singh, Kush Bhatia, *Ashish Kumar*, Prateek Jain, Manik Varma.\n
 Neural Information Processing Systems. 2018 \n
