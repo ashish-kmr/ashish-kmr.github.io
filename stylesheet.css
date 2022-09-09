@@ -109,6 +109,12 @@ heading1{
   font-weight: 200;
 }
 
+talktitle {
+  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+
 papertitle {
   font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
   font-size: 17px;
