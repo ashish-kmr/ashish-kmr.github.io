@@ -70,6 +70,45 @@
 </table>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
 
+
+<tr>
+  <td width="37%" valign="top" align="center"><a href="https://ashish-kmr.github.io/a-rma/">
+  <video autoplay loop muted src="images/dronerma.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
+  </a></td>
+  <td width="60%" valign="top">
+    <p><a href="https://dz298.github.io/universal-drone-controller/" id="DroneRMA">
+    <papertitle>A Zero-shot Adaptive Quadcopter Controller</papertitle></a><br>
+    Dingqi Zhang, Antonio Loquercio, Xiangyu Wu, <br/>Ashish Kumar, Jitendra Malik, Mark W. Mueller<br>
+    arXiv Preprint
+    </p>
+
+    <div class="paper" id="dronerma">
+    <a href="https://dz298.github.io/universal-drone-controller/">webpage</a> |
+    <a href="javascript:toggleblock('dronerma_abs')">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('dronerma')" class="togglebib">bibtex</a> |
+    <a href="https://arxiv.org/abs/2209.09232">arXiv</a> 
+    <!-- <a href="https://youtu.be/HSdFHX0qQqg">demo</a> -->
+
+    <p align="justify"> <i id="dronerma_abs">
+      This paper proposes a universal adaptive controller for quadcopters, which can be deployed zero-shot to quadcopters of very different mass, arm lengths and motor constants, and also shows rapid adaptation to unknown disturbances during runtime. The core algorithmic idea is to learn a single policy that can adapt online at test time not only to the disturbances applied to the drone, but also to the robot dynamics and hardware in the same framework. We achieve this by training a neural network to estimate a latent representation of the robot and environment parameters, which is used to condition the behaviour of the controller, also represented as a neural network. We train both networks exclusively in simulation with the goal of flying the quadcopters to goal positions and avoiding crashes to the ground. We directly deploy the same controller trained in the simulation without any modifications on two quadcopters with differences in mass, inertia, and maximum motor speed of up to 4 times. In addition, we show rapid adaptation to sudden and large disturbances (up to 35.7%) in the mass and inertia of the quadcopters. We perform an extensive evaluation in both simulation and the physical world, where we outperform a state-of-the-art learning-based adaptive controller and a traditional PID controller specifically tuned to each platform individually.
+    </i></p>
+
+<pre xml:space="preserve">
+@article{zhang2022zero,
+  title={A Zero-Shot Adaptive Quadcopter Controller},
+  author={Zhang, Dingqi and Loquercio, Antonio and 
+  Wu, Xiangyu and Kumar, Ashish and 
+  Malik, Jitendra and Mueller, Mark W},
+  journal={arXiv preprint arXiv:2209.09232},
+  year={2022}
+}
+</pre>
+    </div>
+  </td>
+</tr>
+
+
+
 <tr>
   <td width="37%" valign="top" align="center"><a href="https://ashish-kmr.github.io/a-rma/">
   <video autoplay loop muted src="images/arma.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
@@ -469,6 +508,10 @@ year   = {2021}
 
 </body>
 
+
+<script xml:space="preserve" language="JavaScript">
+hideblock('dronerma_abs');
+</script>
 
 <script xml:space="preserve" language="JavaScript">
 hideblock('arma_abs');
