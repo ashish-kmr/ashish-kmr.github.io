@@ -72,7 +72,46 @@
 
 
 <tr>
-  <td width="37%" valign="top" align="center"><a href="https://ashish-kmr.github.io/a-rma/">
+  <td width="37%" valign="top" align="center"><a href="https://haozhi.io/hora/">
+  <video autoplay loop muted src="images/hora.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
+  </a></td>
+  <td width="60%" valign="top">
+    <p><a href="https://haozhi.io/hora/" id="Hora">
+    <papertitle>In-Hand Object Rotation via Rapid Motor Adaptation</papertitle></a><br>
+    Haozhi Qi*, Ashish Kumar*, Roberto Calandra, Yi Ma, Jitendra Malik <br/>
+    CoRL 2022 
+    </p>
+
+    <div class="paper" id="hora">
+    <a href="https://haozhi.io/hora/">webpage</a> |
+    <a href="javascript:toggleblock('hora_abs')">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('hora')" class="togglebib">bibtex</a> |
+    <a href="https://arxiv.org/abs/2210.04887">arXiv</a> 
+    <!-- <a href="https://youtu.be/HSdFHX0qQqg">demo</a> -->
+
+    <p align="justify"> <i id="hora_abs">
+      Generalized in-hand manipulation has long been an unsolved challenge of robotics. As a small step towards this grand goal, we demonstrate how to design and learn a simple adaptive controller to achieve in-hand object rotation using only fingertips. The controller is trained entirely in simulation on only cylindrical objects, which then - without any fine-tuning - can be directly deployed to a real robot hand to rotate dozens of objects with diverse sizes, shapes, and weights over the z-axis. This is achieved via rapid online adaptation of the controller to the object properties using only proprioception history. Furthermore, natural and stable finger gaits automatically emerge from training the control policy via reinforcement learning.
+    </i></p>
+
+<pre xml:space="preserve">
+@inproceedings{qihand,
+  title={In-Hand Object Rotation 
+  via Rapid Motor Adaptation},
+  author={Qi, Haozhi and Kumar, Ashish 
+  and Calandra, Roberto and 
+  Ma, Yi and Malik, Jitendra},
+  booktitle={6th Annual Conference 
+  on Robot Learning}
+}
+</pre>
+    </div>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td width="37%" valign="top" align="center"><a href="https://dz298.github.io/universal-drone-controller/">
   <video autoplay loop muted src="images/dronerma.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
   </a></td>
   <td width="60%" valign="top">
@@ -95,9 +134,10 @@
 
 <pre xml:space="preserve">
 @article{zhang2022zero,
-  title={A Zero-Shot Adaptive Quadcopter Controller},
-  author={Zhang, Dingqi and Loquercio, Antonio and 
-  Wu, Xiangyu and Kumar, Ashish and 
+  title={A Zero-Shot Adaptive 
+  Quadcopter Controller},
+  author={Zhang, Dingqi and Loquercio, Antonio 
+  and Wu, Xiangyu and Kumar, Ashish and 
   Malik, Jitendra and Mueller, Mark W},
   journal={arXiv preprint arXiv:2209.09232},
   year={2022}
@@ -508,6 +548,10 @@ year   = {2021}
 
 </body>
 
+
+<script xml:space="preserve" language="JavaScript">
+hideblock('hora_abs');
+</script>
 
 <script xml:space="preserve" language="JavaScript">
 hideblock('dronerma_abs');
