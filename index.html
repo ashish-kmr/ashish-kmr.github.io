@@ -99,6 +99,83 @@
 
 
 <tr>
+  <td width="40%" valign="top" align="center"><a href="https://vision-locomotion.github.io/">
+  <video autoplay loop muted src="images/vloco.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
+  </a></td>
+  <td width="57%" valign="top">
+    <p><a href="https://vision-locomotion.github.io/" id="Vloco">
+    <papertitle>Legged Locomotion in Challenging Terrains using Egocentric Vision</papertitle></a><br>
+    Ananye Agarwal*, Ashish Kumar*, Jitendra Maliki<sup>+</sup>, Deepak Pathak<sup>+</sup><br/>
+    CoRL 2022 
+    </p>
+
+    <div class="paper" id="vloco">
+    <a href="https://vision-locomotion.github.io/">webpage</a> |
+    <a href="javascript:toggleblock('vloco_abs')">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('vloco_abs')" class="togglebib">bibtex</a> |
+    <a href="https://arxiv.org/abs/2211.07638">arXiv</a> 
+    <!-- <a href="https://youtu.be/HSdFHX0qQqg">demo</a> -->
+
+    <p align="justify"> <i id="vloco_abs">
+      Animals are capable of precise and agile locomotion using vision. Replicating this ability has been a long-standing goal in robotics. The traditional approach has been to decompose this problem into elevation mapping and foothold planning phases. The elevation mapping, however, is susceptible to failure and large noise artifacts, requires specialized hardware, and is biologically implausible. In this paper, we present the first end-to-end locomotion system capable of traversing stairs, curbs, stepping stones, and gaps. We show this result on a medium-sized quadruped robot using a single front-facing depth camera. The small size of the robot necessitates discovering specialized gait patterns not seen elsewhere. The egocentric camera requires the policy to remember past information to estimate the terrain under its hind feet. We train our policy in simulation. Training has two phases - first, we train a policy using reinforcement learning with a cheap-to-compute variant of depth image and then in phase 2 distill it into the final policy that uses depth using supervised learning. The resulting policy transfers to the real world without any fine-tuning and can traverse a large variety of terrain while being robust to perturbations like pushes, slippery surfaces, and rocky terrain.
+   </i></p>
+
+<pre xml:space="preserve">
+@inproceedings{agarwal2022legged,
+  title={Legged locomotion in 
+  challenging terrains 
+  using egocentric vision},
+  author={Agarwal, Ananye and Kumar, Ashish 
+  and Malik, Jitendra and Pathak, Deepak},
+  booktitle={6th Annual Conference 
+  on Robot Learning}
+}
+</pre>
+    </div>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td width="40%" valign="top" align="center"><a href="https://antonilo.github.io/vision_locomotion/">
+  <video autoplay loop muted src="images/cms.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
+  </a></td>
+  <td width="57%" valign="top">
+    <p><a href="https://antonilo.github.io/vision_locomotion/" id="CMS">
+    <papertitle>Learning Visual Locomotion with Cross-Modal Supervision</papertitle></a><br>
+    Antonio Loquercio*, Ashish Kumar*, Jitendra Malik <br/>
+    arXiv Preprint 
+    </p>
+
+    <div class="paper" id="cms">
+    <a href="ihttps://antonilo.github.io/vision_locomotion/">webpage</a> |
+    <a href="javascript:toggleblock('cms_abs')">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('cms')" class="togglebib">bibtex</a> |
+    <a href="https://arxiv.org/abs/2211.03785">arXiv</a> 
+    <!-- <a href="https://youtu.be/HSdFHX0qQqg">demo</a> -->
+
+    <p align="justify"> <i id="cms_abs">
+      In this work, we show how to learn a visual walking policy that only uses a monocular RGB camera and proprioception. Since simulating RGB is hard, we necessarily have to learn vision in the real world. We start with a blind walking policy trained in simulation. This policy can traverse some terrains in the real world but often struggles since it lacks knowledge of the upcoming geometry. This can be resolved with the use of vision. We train a visual module in the real world to predict the upcoming terrain with our proposed algorithm Cross-Modal Supervision (CMS). CMS uses time-shifted proprioception to supervise vision and allows the policy to continually improve with more real-world experience. We evaluate our vision-based walking policy over a diverse set of terrains including stairs (up to 19cm high), slippery slopes (inclination of 35 degrees), curbs and tall steps (up to 20cm), and complex discrete terrains. We achieve this performance with less than 30 minutes of real-world data. Finally, we show that our policy can adapt to shifts in the visual field with a limited amount of real-world experience.
+    </i></p>
+
+<pre xml:space="preserve">
+@article{loquercio2022learning,
+  title={Learning Visual Locomotion 
+  with Cross-Modal Supervision},
+  author={Loquercio, Antonio and Kumar, Ashish 
+  and Malik, Jitendra},
+  booktitle={arXiv preprint arXiv:2211.07638}
+  year={2022}
+}
+</pre>
+    </div>
+  </td>
+</tr>
+
+
+
+<tr>
   <td width="40%" valign="top" align="center"><a href="https://haozhi.io/hora/">
   <video autoplay loop muted src="images/hora.mp4" alt="sym" width="90%" style="margin-top:15px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
   </a></td>
@@ -575,6 +652,13 @@ year   = {2021}
 
 </body>
 
+<script xml:space="preserve" language="JavaScript">
+hideblock('vloco_abs');
+</script>
+
+<script xml:space="preserve" language="JavaScript">
+hideblock('cms_abs');
+</script>
 
 <script xml:space="preserve" language="JavaScript">
 hideblock('hora_abs');
